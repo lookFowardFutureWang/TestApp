@@ -39,27 +39,15 @@
                                 <color key="textColor" red="1" green="0.53333333329999999" blue="0.1333333333" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="I want to weekday" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iSe-PU-EKd">
-                                <rect key="frame" x="16" y="516" width="343" height="111"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="111" id="4NI-z6-EML"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
-                                <color key="textColor" red="0.33333333329999998" green="0.73333333329999995" blue="0.1333333333" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstAttribute="trailing" secondItem="EkY-CV-oac" secondAttribute="trailing" constant="16" id="1zY-R3-Eyc"/>
-                            <constraint firstAttribute="trailing" secondItem="iSe-PU-EKd" secondAttribute="trailing" constant="16" id="6m2-XE-fBQ"/>
                             <constraint firstItem="xAZ-UA-RQD" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="HPS-Le-zw0"/>
                             <constraint firstItem="EkY-CV-oac" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="16" id="Qte-y6-131"/>
                             <constraint firstItem="EkY-CV-oac" firstAttribute="top" secondItem="xAZ-UA-RQD" secondAttribute="bottom" constant="8" id="foL-OA-yC0"/>
                             <constraint firstAttribute="trailing" secondItem="xAZ-UA-RQD" secondAttribute="trailing" constant="16" id="g3J-BB-fqr"/>
-                            <constraint firstItem="iSe-PU-EKd" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="16" id="g4k-cj-02H"/>
                             <constraint firstItem="xAZ-UA-RQD" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="16" id="lDd-7t-RfE"/>
-                            <constraint firstItem="iSe-PU-EKd" firstAttribute="top" secondItem="EkY-CV-oac" secondAttribute="bottom" constant="8" id="p9a-9u-igA"/>
                         </constraints>
                     </view>
                 </viewController>
